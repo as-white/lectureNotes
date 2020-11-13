@@ -1,0 +1,19 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 4 */
+
+p{
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2{
+    font-family:Lucida Console, Courier, monospace;
+    font-style: italic
+}
+
+dt{
+    font-weight: bold;
+    font-size: 20px;
+}
